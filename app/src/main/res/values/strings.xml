@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherMap</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="search">Search</string>
+    <string name="weather_icon">Weather Icon</string>
+    <string name="temperature">Temperature:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="wind">Wind:</string>
+</resources>
